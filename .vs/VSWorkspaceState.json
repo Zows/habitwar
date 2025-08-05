@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\prisma",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\pages",
+    "\\frontend\\src\\pages\\api"
+  ],
+  "SelectedNode": "\\frontend\\src\\pages\\api\\habits.ts",
+  "PreviewInSolutionExplorer": false
+}
